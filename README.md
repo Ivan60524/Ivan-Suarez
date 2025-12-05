@@ -55,7 +55,7 @@ Disfruto resolver problemas, automatizar tareas repetitivas y garantizar calidad
 ### 📫 Contáctame
 
 📩 **Email:** refatecomitl@outlook.com  
-🔗 **LinkedIn:** (cuando actualices tu URL limpia te la agrego aquí)
+🔗 **LinkedIn:** www.linkedin.com/in/ivan-suarez-qa
 
 ---
 
