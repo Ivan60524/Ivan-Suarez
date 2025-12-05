@@ -32,7 +32,7 @@ Me apasiona el análisis, la calidad del software y la búsqueda de fallas media
 | **API Testing con Postman** | Validación de endpoints, request/response y variables | Postman · JSON · HTTP | 🔗 [Ver proyecto](#) |
 | **Ejercicios y scripts QA** | Scripts de práctica y automatización en proceso | Python · Selenium · Git | 🔗 [Ver proyecto](#) |
 
-> (Cuando compartas los repos te actualizo la tabla con los links reales)
+> 
 
 ---
 
