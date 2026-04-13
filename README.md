@@ -25,8 +25,8 @@ Me apasiona el análisis, la calidad del software y la búsqueda de fallas media
 
 ### 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías | Repositorio |
-|--------|-------------|-------------|-------------|
+| Proyecto | Descripción | Tecnologías 
+|--------|-------------|-------------|
 | **Urban Routes Automation** | Automatización UI del flujo principal de pedido de taxi | Selenium + Python + Pytest 
 | **Urban Scooter Testing** | Lista de comprobación, casos de prueba y validación funcional end-to-end | QA Manual · Test Cases · Checklists 
 | **API Testing con Postman** | Validación de endpoints, request/response y variables | Postman · JSON · HTTP 
